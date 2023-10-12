@@ -1,7 +1,7 @@
 # LinuxTipx
 # Aula - 1
 
-# Prova aula 6
+# Aula 6
 
 # Modulo -6 
 
