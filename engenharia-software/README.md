@@ -5,16 +5,16 @@
 
 # Modulo -6 
 
-- Um par em uma equipe Scrum
+# Um par em uma equipe Scrum?
 - é formado pelo ScrumMaster e pelo Product Owner
 - é formado por duas pessoas com formação semelhante para garantir o máximo de produtividade
 - é formado por duas pessoas com conhecimentos diversos para fomentar o compartilhamento desses conhecimentos
-só pode ser formado por júniores porque os plenos e seniors preferem trabalhar sozinhos
+- só pode ser formado por júniores porque os plenos e seniors preferem trabalhar sozinhos
 
 - Resposta correta
 é formado por duas pessoas com conhecimentos diversos para fomentar o compartilhamento desses conhecimentos
 
-# A escolha dos itens que entrarão no Sprint Backlog
+# A escolha dos itens que entrarão no Sprint Backlog?
 
 - é feita pelo ScrumMaster e ele os repassa para a equipe 
 - é feita pelos membros da equipe
@@ -34,7 +34,7 @@ só pode ser formado por júniores porque os plenos e seniors preferem trabalhar
 - Resposta correta
 A qualidade das entregas.
 
-# No caso de um impedimento
+# No caso de um impedimento?
 
 - a equipe deve esperar a reunião diária pois é só o ScrumMaster que os resolve 
 - a equipe aciona imediatamente o ScrumMaster que deve abandonar suas tarefas para resolvê-lo  
@@ -44,7 +44,7 @@ A qualidade das entregas.
 - Resposta correta
 a equipe procura resolvê-lo com seus recursos e, isso não sendo possível, leva-o para a reunião diária com o ScrumMaster
 
-# Quando um bug é encontrado...
+# Quando um bug é encontrado...?
  
 - um teste capaz de detectá-lo é criado e a solução é desenvolvida imediatamente.
 - é feita uma avaliação de sua severidade e, de acordo com ela, ele é colocado dentro de uma agenda para a sua solução.
