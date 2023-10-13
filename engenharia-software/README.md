@@ -1,7 +1,7 @@
 # LinuxTipx
 # Aula - 1
 
-# Prova aula 6
+# Aula 6
 
 # Modulo -6 
 
@@ -54,6 +54,7 @@ a equipe procura resolvê-lo com seus recursos e, isso não sendo possível, lev
 - Resposta correta
 um teste capaz de detectá-lo é criado e a solução é desenvolvida imediatamente.
 </p>
+<<<<<<< HEAD
 
 # Modulo 7 
 
@@ -109,3 +110,5 @@ O Scrum não prescreve a forma como isso deve ser feito
 
 # Resposta correta
 A qualquer momento em que as histórias forem refinadas ou que surjam novos desejos e necessidades.
+=======
+>>>>>>> 26b1a682a2b9b8fdf8bcbf493dd18852ffaa51a3
