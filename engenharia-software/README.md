@@ -1,10 +1,6 @@
-# LinuxTipx
-# Aula - 1
-
-# Aula 6
+# LinuxTips
 
 # Modulo -6 
-
 # Um par em uma equipe Scrum?
 - é formado pelo ScrumMaster e pelo Product Owner
 - é formado por duas pessoas com formação semelhante para garantir o máximo de produtividade
@@ -110,5 +106,3 @@ O Scrum não prescreve a forma como isso deve ser feito
 
 # Resposta correta
 A qualquer momento em que as histórias forem refinadas ou que surjam novos desejos e necessidades.
-=======
->>>>>>> 26b1a682a2b9b8fdf8bcbf493dd18852ffaa51a3
